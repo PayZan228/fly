@@ -1,1 +1,2 @@
 https://github.com/PayZan228/fly/invitations
+https://docs.microsoft.com/ru-ru/dotnet/api/system.drawing.image?view=netframework-4.7.2

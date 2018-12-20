@@ -45,7 +45,7 @@ namespace  WindowsFormsApp7
     }
     class pole
     {
-        YA[,] polee;
+        public YA[,] polee;
         public pole()
         {
             polee = new YA[11, 15];
@@ -58,7 +58,7 @@ namespace  WindowsFormsApp7
 
             }
 
-            polee[6, 10].type = 3;
+            polee[5, 10].type = 3;
         }
 
         public void Tick()
